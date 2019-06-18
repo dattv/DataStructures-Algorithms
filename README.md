@@ -7,7 +7,9 @@ Michael T.Goodric -- Roberto Tamassia -- Michael H. Goldwasser
 
 ## Python Primer
 1. Python Overview
-    1. The Python Iterpreter
+    1. The Python Iterpreter 
+        
+        [preview_of_a_python_program_ex01](https://github.com/dattv/DataStructures-Algorithms/blob/master/PythonPrime/preview_of_a_python_program_ex01.py)
     2. Perview of a Python Program
 2.  Objects in Python
     1. Identifiers, Objects, and the Assignment Statement
