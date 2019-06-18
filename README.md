@@ -6,7 +6,6 @@ Some python code that I implemented in the Data Structures and Algorithms Book
 Michael T.Goodric -- Roberto Tamassia -- Michael H. Goldwasser
 
 ## Python Primer
-
 1. Python Overview
     1. The Python Iterpreter
     2. Perview of a Python Program
